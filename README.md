@@ -1,5 +1,5 @@
 
-# Music Application
+# Music Store Player
 
 The Music Store is an innovative Java application offers users a dynamic and engaging platform for managing and enjoying diverse audio content. This intuitive simulator enables users to download songs and audiobooks from a simulated store, creating personalized playlists within a comprehensive library. With a unique twist, playing a song in MyAudio means printing its lyrics. Users can also search/download for content by title, artist, or genre using efficient mapping, in addition to sorting by year, length or name, enhancing content accessibility. The project provides a hands-on opportunity to reinforce Java programming concepts such as  object-oriented programming, inheritance, polymorphism, custom exception handling, File I/O and user input ensuring a deep understanding of key principles. Featuring classes like Library, MyAudioUI, AudioContent, and more, MyAudio is a seamless blend of simplicity and sophistication.
 
